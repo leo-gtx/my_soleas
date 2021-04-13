@@ -1,9 +1,10 @@
 # my_soleas
-##Requirement
+Simple website with symfony
+## Requirement
 - Symfony 4.4
 - Php > 7.2
 - Install Composer
-##Installation
+## Installation
 - Clone the repository with the command
 git clone <repository-url>
 - Run command: Composer install
